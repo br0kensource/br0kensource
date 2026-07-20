@@ -10,6 +10,6 @@ I'm studying for a Master's in Computer Science.
 
 <br/>
 
-Email me at: [hallambsaunders@gmail.com](mailto:hallambsaunders@gmail.com).
+Email me at: [hallam.work@pm.me](mailto:hallam.work@pm.me).
 
 </div>
