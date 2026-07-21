@@ -1,8 +1,6 @@
 <div align="center">
 
-<br/>
-
-I'm currently working on a research project exploring C to Rust translation, leveraging LLMs!
+Interested in compilers and transpilers, programming languages, memory safety, cool open source stuff, and cyber security!
 
 <br/>
 
